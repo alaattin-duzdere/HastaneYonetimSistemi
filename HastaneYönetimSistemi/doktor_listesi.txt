@@ -1,0 +1,8 @@
+Kemal Akay,45454,Nöroloji
+Nebahat Sürer,84565,Psikiyatri
+Besim Ömer,45645,Kardiyoloji
+Süreyya Tahsin,78988,Dahiliye
+Ayşegül Demir,45241,Nöroloji
+Reşit Galip,41234,Anestezi
+Sadi Irmak,95244,Psikiyatri
+Nurettin Berkol,45123,Üroloji
