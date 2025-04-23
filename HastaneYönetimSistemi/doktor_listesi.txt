@@ -1,8 +1,8 @@
-Kemal Akay,45454,Nöroloji
-Nebahat Sürer,84565,Psikiyatri
-Besim Ömer,45645,Kardiyoloji
-Süreyya Tahsin,78988,Dahiliye
-Ayşegül Demir,45241,Nöroloji
-Reşit Galip,41234,Anestezi
-Sadi Irmak,95244,Psikiyatri
-Nurettin Berkol,45123,Üroloji
+Kemal Akay,45454,Nöroloji,true
+Nebahat Sürer,84565,Psikiyatri,true
+Besim Ömer,45645,Kardiyoloji,false
+Süreyya Tahsin,78988,Dahiliye,false
+Aysegul Demir,45241,Noroloji,true
+Reşit Galip,41234,Anestezi,true
+Sadi Irmak,95244,Psikiyatri,true
+Nurettin Berkol,45123,Üroloji,true
