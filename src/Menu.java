@@ -61,7 +61,7 @@ public interface  Menu {
             while((currentline=reader.readLine()) != null){
                 try {
                     String[] parts= currentline.split(",");
-                    if(parts[0].equals(isim_soyisim)){
+                    if(parts[0].equalsIgnoreCase(isim_soyisim)){
                         currentisim_soyisim=parts[0];
                         currentyas=Integer.parseInt(parts[1]);
                         currentuzmanlik=parts[2];
